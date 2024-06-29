@@ -1,0 +1,14 @@
+{
+  "ID": "59576c9d-5a12-45b0-bf27-ceecb9f6d74e",
+  "ActionKeyword": "plug",
+  "Disabled": false,
+  "IsGlobal": false,
+  "Name": "CursorWorkspacesPlugin",
+  "Author": "",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "",
+  "ExecuteFileName": "Community.PowerToys.Run.Plugin.CursorWorkspacesPlugin.dll",
+  "IcoPathDark": "Images\\CursorWorkspacesPlugin.dark.png",
+  "IcoPathLight": "Images\\CursorWorkspacesPlugin.light.png"
+}
